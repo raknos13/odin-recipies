@@ -1,0 +1,31 @@
+* {
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.recipe-title {
+	font-size: 50px;
+}
+
+.recipe-img {
+	border-radius: 5%;
+	height: 500px;
+	width: auto;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 25px;
+}
+
+.recipe-desc {
+	font-size: 18px;
+}
+
+ul li, ol li{
+	font-size: 18px;
+	padding: 3px;
+	margin: 5px
+}
