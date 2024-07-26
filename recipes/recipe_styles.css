@@ -2,6 +2,11 @@
 	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
+body {
+	margin-left: 25%;
+	background-color:antiquewhite;
+}
+
 .recipe-title {
 	font-size: 50px;
 }
@@ -28,4 +33,12 @@ ul li, ol li{
 	font-size: 18px;
 	padding: 3px;
 	margin: 5px
+}
+
+.list-container {
+	background-color: burlywood;
+	padding: 10px 50px;
+	border-radius: 50px;
+	width: 500px;
+	margin: 20px 0;
 }

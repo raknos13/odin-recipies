@@ -2,12 +2,19 @@ body {
 	background-color:blanchedalmond;
 }
 
+.container {
+	text-align: center;
+	background-color: burlywood;
+	margin: 50px auto;
+	width: 500px;
+	border-radius: 50px;
+	padding: 20px;
+}
+
 h1 {
 	font-size: 50px;
-	text-align: center;
 }
 
 ul {
 	font-size: 20px;
-	text-align: center;
 }
